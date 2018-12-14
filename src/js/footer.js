@@ -7,7 +7,7 @@ class Footer extends Component {
             <footer>
                 <div className="container">
                     <div className="footer">
-                        <p><a href="#">Urmat Bekboev</a> © 2014 All Rights Reserved</p>
+                        <p><a href="#">Urmat Bekboev</a> © 2018 All Rights Reserved</p>
                     </div>
                 </div>
             </footer>
