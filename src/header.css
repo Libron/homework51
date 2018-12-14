@@ -1,0 +1,33 @@
+header h1{
+    margin: 5px 0;
+}
+.logo{
+    text-decoration: none;
+    display: inline-block;
+    height: 55px;
+    width: auto;
+    color: black;
+    padding-left: 80px;
+    line-height: 55px;
+    font-size: 37px;
+    font-weight: bold;
+}
+nav{
+    height: 40px;
+}
+.navigation{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.navigation a{
+    text-decoration: none;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 10px;
+}
+.navigation li{
+    float: left;
+    padding: 10px;
+}

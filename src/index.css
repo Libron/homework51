@@ -6,9 +6,20 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  color: #5b5b5b;
+  background: #fff;
+  line-height: 1.3;
+  font-size: 13px;
+  min-width: 998px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.container{
+  width: 998px;
+  margin: 0 auto;
+  padding: 1px 0;
 }
