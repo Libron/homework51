@@ -1,0 +1,49 @@
+.about {
+    text-align: center;
+    margin: 60px 0;
+}
+.intro {
+    font-size: 20px;
+    font-weight: bold;
+    color: #424242;
+}
+.intro h2, .intro p {
+    margin: 0;
+}
+.intro h2{
+    font-size: 36px;
+}
+.box {
+    margin-top: 30px;
+}
+.box-inner {
+    width: 250px;
+    margin: 0px 20px;
+    display: inline-block;
+}
+.box-inner a{
+    text-decoration: none;
+    display: inline-block;
+    height: 25px;
+    width: auto;
+    font-size: 22px;
+    font-weight: bold;
+    color: #424242;
+    padding-top: 100px;
+}
+.box-inner p{
+    font-size: 13px;
+    color: #5b5b5b;
+}
+.box-1 a{
+    background: url('./img/ic-hand.png') no-repeat center;
+    background-position: center 0;
+}
+.box-2 a{
+    background: url('./img/ic-book.png') no-repeat center;
+    background-position: center 0;
+}
+.box-3 a{
+    background: url('./img/ic-comment.png') no-repeat center;
+    background-position: center 0;
+}
