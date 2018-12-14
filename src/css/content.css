@@ -36,14 +36,14 @@
     color: #5b5b5b;
 }
 .box-1 a{
-    background: url('./img/ic-hand.png') no-repeat center;
+    background: url('../img/ic-hand.png') no-repeat center;
     background-position: center 0;
 }
 .box-2 a{
-    background: url('./img/ic-book.png') no-repeat center;
+    background: url('../img/ic-book.png') no-repeat center;
     background-position: center 0;
 }
 .box-3 a{
-    background: url('./img/ic-comment.png') no-repeat center;
+    background: url('../img/ic-comment.png') no-repeat center;
     background-position: center 0;
 }
